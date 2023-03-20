@@ -44,7 +44,7 @@ const Features = () => {
             />
           </div>
         ) : (
-          <div className="grid md:grid-cols-4 gap-6">
+          <div className="grid lg:grid-cols-4 sm:grid-cols-2 gap-6">
             {getFeatures?.data.map((feature) => (
               <Card className="border border-[#D0D5DD] p-3 rounded-xl shadow-none min-w-[18.344rem] pb-2">
                 <CardMedia
