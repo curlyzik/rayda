@@ -20,7 +20,7 @@ const AuctionCard = () => {
                 <Button
                   variant="outlined"
                   startIcon={<FiThumbsUp />}
-                  className="border-[#D0D5DD] text-[#344054] font-semibold text-sm capitalize py-2 rounded-lg"
+                  className="border-[#D0D5DD] text-raydaGrey-300 font-semibold text-sm capitalize py-2 rounded-lg"
                 >
                   Accept Invite
                 </Button>
