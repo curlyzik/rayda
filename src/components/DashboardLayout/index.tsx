@@ -4,7 +4,7 @@ import Header from "./Header";
 interface Props {}
 const DashboardLayout: React.FC<React.PropsWithChildren> = ({ children }) => {
   return (
-    <div>
+    <div className="pt-8 px-8">
       <Header />
       {children}
     </div>
