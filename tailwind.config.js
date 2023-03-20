@@ -9,6 +9,7 @@ module.exports = {
         raydaGrey: {
           100: "#EAECF0",
           200: "#475467",
+          300: "#344054",
         },
       },
       fontFamily: {
