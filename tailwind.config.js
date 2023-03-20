@@ -6,6 +6,10 @@ module.exports = {
     extend: {
       colors: {
         raydaBlack: "#101828",
+        raydaGrey: {
+          100: "#EAECF0",
+          200: "#475467",
+        },
       },
       fontFamily: {
         ibmPlex: ["IBM Plex Sans", "sans-serif"],

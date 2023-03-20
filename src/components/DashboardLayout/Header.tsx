@@ -10,7 +10,7 @@ const Header = () => {
           <BsBell className="text-xl" />
         </div>
       </div>
-      <span className="text-[#475467] font-normal text-base">
+      <span className="text-raydaGrey-200 font-normal text-base">
         Your current sales auction and activity.
       </span>
     </header>
